@@ -3,7 +3,7 @@
 ## Muhammad Hammad
 - **GIAIC Student ID Number:** 413850
 - **Slot:** Section A (Tuesday Evening)
-- **Growth Mindset Challenge Web App Deployed URL:** [Add Your URL Here]
+- **Growth Mindset Challenge Web App Deployed URL:** https://growthmindsetchalenge.streamlit.app/
 
 ---
 
